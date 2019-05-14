@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimiyiemi.fps144.com/sitemap.xml
